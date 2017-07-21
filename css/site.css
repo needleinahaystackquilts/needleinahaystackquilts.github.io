@@ -31,6 +31,17 @@
 	font-family: 'Merriweather', serif;
 }
 
+.nav-custom li.active a,
+.nav-custom li.active a:hover,
+.nav-custom li.active a:active {
+	background: #e4345d;
+}
+
+.nav-custom li a:hover,
+.nav-custom li a:active {
+	color: #e4345d;
+}
+
 .logo {
 	position: absolute;
 	width: 300px;
